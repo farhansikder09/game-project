@@ -39,7 +39,7 @@ A critical feature implemented is the health management system. Each fighter has
 
 ### Game Dynamics and Interaction
 #### Event Handling and Game State Management
-The core of the game's interactivity lies in its event handling system. This system listens for user inputs, such as keyboard presses or mouse clicks, and responds accordingly to trigger character movements or actions. Managing the game state involves checking conditions such as whether a fighter's health has reached zero, which would trigger a death animation and potentially end the game round.
+The core of the game's interactivity lies in its event handling system. This system listens for user inputs, such as keyboard presses, and responds accordingly to trigger character movements or actions. Managing the game state involves checking conditions such as whether a fighter's health has reached zero, which would trigger a death animation and potentially end the game round.
 
 #### Integration of Animations and Character Interaction
 Animations play a crucial role in bringing the fighters to life. Each character in the game has multiple animations representing different states such as idle, jumping, attacking, being hit, and dying. These animations are smoothly transitioned from one to another based on user input and game conditions, enhancing the visual experience and the realism of the combat.
@@ -49,24 +49,18 @@ Animations play a crucial role in bringing the fighters to life. Each character 
 The visual appeal of the game is significantly enhanced by a detailed background image that sets the theme and mood of the arena where the fighters battle. This background is dynamically scaled to fit the game window, ensuring that it looks great on all screen sizes. Additional visual elements like health bars and score counters are also integrated, providing important game information in a visually appealing way.
 
 #### Audio Integration
-To further enhance the gaming experience, background music and sound effects for different actions (e.g., punches landing, characters jumping) are added. These audio cues are crucial for an immersive experience, providing feedback on player actions and events occurring within the game.
+To further enhance the gaming experience, background music and sound effects for different actions (e.g., background music, weapon attack) are added. These audio cues are crucial for an immersive experience, providing feedback on player actions and events occurring within the game.
 
 ### Challenges and Solutions
 #### Debugging and Performance Optimization
 During development, various challenges were faced, particularly with performance optimization and debugging complex interactions between game elements. Solutions involved refining collision detection algorithms and optimizing image rendering processes to ensure smooth gameplay even on lower-spec devices.
 
-#### Learning and Adapting from Community Feedback
-Feedback from early testers was invaluable in identifying issues that weren't initially apparent, such as unbalanced fighter abilities or unclear game controls. Adjusting these based on feedback helped improve the game significantly, making it more enjoyable and fair.
-
 ### Future Enhancements and Community Engagement
 #### Planned Features
 Looking ahead, there are several exciting enhancements planned for the game:
 - **More Characters and Levels:** Expanding the roster of fighters and adding new levels will offer players more variety and challenge.
-- **Multiplayer Functionality:** Implementing online multiplayer capabilities to allow friends to battle against each other in real-time.
-- **Advanced AI Opponents:** Enhancing the artificial intelligence of opponents to provide a challenging experience even when playing solo.
-
-#### Engaging with the Gaming Community
-Continued engagement with the gaming community is essential. I plan to keep an open line of communication through forums and social media to gather more feedback and ideas. This community-driven approach not only helps in refining the game but also builds a loyal player base.
+- **Enhanced Movesets:** Making a more dynamic move-set so that people playing the game can strategize and enjoy more.
+- **Advanced AI Opponents:** My goal is to make a single-player version out of the game as well, where an AI would learn to adapt as per my moves making the game more challenging.
 
 ## Conclusion
 This project not only fueled my passion for gaming but also deepened my understanding of the complexities of game development. It highlighted the importance of technical skills, creative design, and user feedback in creating an engaging and enjoyable game.
