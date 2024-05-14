@@ -1,6 +1,41 @@
 
 <img width="998" alt="Screenshot at May 14 02-33-34" src="https://github.com/farhansikder09/game-project/assets/149964944/bdc5d76b-91ea-4b54-8167-a29ce62414a3">
 
+
+## Getting Started
+
+Want to try the Brawler Game yourself? Follow these steps to get it up and running on your machine:
+
+### Step 1: Download the Game
+First, you need to download the game files. Click on the "Code" button above and then click "Download ZIP". This will download the `Brawler` folder containing all the necessary files.
+
+### Step 2: Install Pygame
+Before running the game, you must install Pygame, which is the library used to develop this game. To install Pygame, open your command prompt or terminal and enter the following command:
+
+```
+pip install pygame
+```
+
+This command will download and install the Pygame library for you.
+
+### Step 3: Check File Paths
+Ensure that the file paths in the game code, especially for loading images or other assets, match the locations on your system where you've stored these files. This might involve updating the file paths in the code if they differ from the paths in your downloaded files.
+
+### Step 4: Run the Game
+Navigate to the directory containing the game's files in your command prompt or terminal. You can start the game by running:
+
+```
+python main.py
+```
+
+Make sure you are in the correct directory where `main.py` is located before running this command.
+
+### Step 5: Enjoy and Provide Feedback
+Play the game and enjoy! If you encounter any issues or have suggestions for improvements, please feel free to raise an issue here on GitHub or submit a pull request. Your feedback is invaluable and helps make the game better for everyone.
+
+
+
+
 # Brawler Game Development Journey
 
 ## Acknowledgment
