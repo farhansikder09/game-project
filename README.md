@@ -39,7 +39,7 @@ Play the game and enjoy! If you encounter any issues or have suggestions for imp
 # Brawler Game Development Journey
 
 ## Acknowledgment
-This project is heavily inspired by the teachings of Code with Russ, whose tutorial provided a foundational understanding and guided me through the process of creating my first game using Pygame. His detailed explanations and coding examples were instrumental in helping me grasp the complex elements of game development.
+This project is heavily inspired by the teachings of Coding with Russ, whose tutorial provided a foundational understanding and guided me through the process of creating my first game using Pygame. His detailed explanations and coding examples were instrumental in helping me grasp the complex elements of game development.
 
 ## Project Overview
 Welcome to the repository for my Brawler Game, a 2D fighting game designed and developed in Python using the Pygame library. The structure of this project is laid out to provide an immersive learning experience about game mechanics, physics, and character design. The game features dynamic combat scenes, health management, and various animations representing different states of the fighters.
